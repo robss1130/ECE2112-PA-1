@@ -1,7 +1,7 @@
 # ECE2112-PA-1
-Robie Galang
-August 26, 2024
-PA #1 Submission
+- Robie Galang
+- August 26, 2024
+- PA #1 Submission
 # Documentation
 - Firstly, I've learned that while coding the first question, in the while statement, my variable "word", which is a string variable, can be evaluated as a boolean value. 
 -  In python, empty strings evaluates to a False, while everything else is True.
